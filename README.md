@@ -15,7 +15,7 @@ In this unit, coders will create a Playlist. The Playlist will display a list of
 #### GitHub Set-Up
 
 - [x] Go to the repository
-- [ ] Fork this repository to your github account and import to a new workspace
+- [x] Fork this repository to your github account and import to a new workspace
 - [ ] Submit your website using the link on the Agenda
 
 #### Starter Code
@@ -25,25 +25,25 @@ In this unit, coders will create a Playlist. The Playlist will display a list of
 
 ### Day 1 Goal 2: Write the code to store your song titles in JavaScript
 
-- [ ] Create and populate an array to store your song names
+- [x] Create and populate an array to store your song names
 
 ### Day 1 Goal 3: Write the code to store the rest of your song information in JavaScript
 
-- [ ] Create and populate arrays to store your song artists, images, and links.
+- [x] Create and populate arrays to store your song artists, images, and links.
 
 #### Wrap
 
-- [ ] Push your changes!
+- [x] Push your changes!
 
 ## Day 2
 
 ### Day 2 Goal 1: Write the code to display your song titles on the page
 
-- [ ] Create a loop that loops through your song name array and displays your song names in the correct div
+- [x] Create a loop that loops through your song name array and displays your song names in the correct div
 
 ### Day 2 Goal 2: Write the code to display the rest of your song information
 
-- [ ] Create loops that loop through your song artists, images, and links arrays and display the information in the correct divs.
+- [x] Create loops that loop through your song artists, images, and links arrays and display the information in the correct divs.
 
 #### Wrap
 
